@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Aladin;
+    src: url(aladin/Aladin-Regular.ttf);
+}
+
+.header {
+    font-family: Aladin;
+    font-size: 100px;
+    color: rgb(245, 248, 248);
+}
+
+.home {
+    margin-top: 250px;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.about {
+    margin-top: 100px;
+}
+
+.carousel {
+    padding: 200px;
+}
+
+@media (max-width: 992px) {
+    body {
+        height: 100%;
+    }
+
+    .header {
+        font-size: 70px;
+    }
+
+    .home {
+        margin-top: 200px;
+    }
+}

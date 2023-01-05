@@ -27,7 +27,8 @@ p {
 }
 
 .projects {
-    padding: 200px;
+    width: 75%;
+    padding: 100px;
 }
 
 @media (max-width: 992px) {
@@ -41,5 +42,10 @@ p {
 
     .home {
         margin-top: 200px;
+    }
+
+    .projects {
+        width: 100%;
+        padding: 20px;
     }
 }

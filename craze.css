@@ -31,6 +31,11 @@ p {
     padding: 100px;
 }
 
+form {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
 @media (max-width: 992px) {
     body {
         height: 100%;
@@ -47,5 +52,10 @@ p {
     .projects {
         width: 100%;
         padding: 20px;
+    }
+
+    form {
+        padding: 10px;
+        
     }
 }

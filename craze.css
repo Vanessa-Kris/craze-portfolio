@@ -36,6 +36,13 @@ form {
     padding-right: 300px;
 }
 
+.body1 {
+    background-image: url(images/He\ has\ a\ range\ of\ emotions\ that\ other\ Hollywood\ frogs\ only\ WISHED\ they\ could\ express_.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-self: center;
+}
+
 @media (max-width: 992px) {
     body {
         height: 100%;
@@ -56,6 +63,13 @@ form {
 
     form {
         padding: 10px;
-        
+
+    }
+    .body1 {
+        background-image: url(images/Pin\ by\ Lethanhnhatloan\ on\ Lưu\ nhanh\ Anak\ kucing\ menggemaskan\,\ Anak\ kucing\ gemas\,\ Kucing\ bayi.jpeg);
+        /* background-repeat: no-repeat; */
+        /* background-size: cover; */
+        align-self: center;
+        height: 100vh;
     }
 }
